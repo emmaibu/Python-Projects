@@ -1,5 +1,5 @@
 ## The Tip Calculator
-A Tip Calculator built in python to calcultae the total tip and total bill based on user input.
+A Tip Calculator built in python to calculate the total tip and total bill based on user input.
 
 ## Features
 - Calculate tip based on the bill amount
