@@ -14,6 +14,8 @@ def main():
         while userInput not in ['a', 'add', 's', 'subtract', 'm', 'multiply', 'd', 'divide']:
             print("Enter opertion to perform: ")
             userInput = input("Enter: ").lower()
+            if userInput not in ['a', 'add', 's', 'subtract', 'm', 'multiply', 'd', 'divide']:
+                print('Invalid request, try again.)
         
         num1 = ''
         num2 = ''
