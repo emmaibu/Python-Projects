@@ -1,6 +1,6 @@
 # Python-Projects
 
-## Status: work in progress 🚧
+## Status: completed
 A collection of Python projects completed in 2025
 
 ## Note
