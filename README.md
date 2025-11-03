@@ -1,7 +1,7 @@
 # Python-Projects
 
-## Status: completed
-A collection of Python projects completed in 2025
+## Status: Will be adding new projects soon
+A collection of Python projects completed in 2025-Current
 
 ## Note
-They only include beginner and intermediate projects
+This may only include beginner and intermediate projects
